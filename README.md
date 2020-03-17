@@ -3,10 +3,10 @@
 MIDI and audio driven visualizations to accompany live music, built on openFrameworks
 
 ## Dependencies
-ofxAppUtils - provides classes for scene management, etc - https://github.com/danomatika/ofxAppUtils
-ofxGui - dependency of ofxAppUtils, included in openFrameworks
-ofxMidi - enables MIDI input and output - https://github.com/danomatika/ofxMidi
-ofxTweenzor - provides tweening - https://github.com/NickHardeman/ofxTweenzor
+- ofxAppUtils - provides classes for scene management, etc - https://github.com/danomatika/ofxAppUtils
+- ofxGui - dependency of ofxAppUtils, included in openFrameworks
+- ofxMidi - enables MIDI input and output - https://github.com/danomatika/ofxMidi
+- ofxTweenzor - provides tweening - https://github.com/NickHardeman/ofxTweenzor
 
 ## Installation
 - clone this repo into your /apps/myApps/ folder
