@@ -12,6 +12,6 @@ ofxTweenzor - provides tweening - https://github.com/NickHardeman/ofxTweenzor
 - clone this repo into your /apps/myApps/ folder
 - clone each of the dependencies into your /addons/ folder
 - run the projectGenerator
--- change the displayed project name to 'olivia'
--- ensure each of the addon dependencies are listed
--- click update
+  - change the displayed project name to 'olivia'
+  - ensure each of the addon dependencies are listed
+  - click update
