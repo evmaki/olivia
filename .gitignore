@@ -5,7 +5,7 @@
 ## User settings
 xcuserdata/
 
-*.xconfig
+*.xcconfig
 *.plist
 *.xcodeproj
 
